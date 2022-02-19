@@ -31,8 +31,8 @@ console.log(n)
  }
  console.log(marks);
 
-
-var arr = [1, 2, "bunty", 4, 5]
+//arrays can have multiple types
+var arr = [1, 2, "string", 4, 5]
 console.log(arr)
 
 /*
