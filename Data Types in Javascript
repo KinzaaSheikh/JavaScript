@@ -1,0 +1,42 @@
+//Data Types in JS
+var str1 = "this is a string";
+var str2 = 'this is how also you write string';
+var num1 = 455
+var num = 56.22
+// floating points are not treated differently
+
+//boolean
+var a = true;
+var b = false;
+console.log(a, b)
+
+var und = undefined;
+console.log(undefined)
+console.log(und)
+var und1;
+console.log(und1)
+
+//when you don't write a value with a variable declaration, it goes undefined
+
+var n = null;
+console.log(n)
+
+//these were all primitive data types
+
+
+ var marks = {
+     ravi : 34,
+     harry : 78
+     // makes object
+ }
+ console.log(marks);
+
+
+var arr = [1, 2, "bunty", 4, 5]
+console.log(arr)
+
+/*
+there are two reference data types
+1. Arrays
+2. Objects
+*/
